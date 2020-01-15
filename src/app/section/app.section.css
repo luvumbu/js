@@ -1,9 +1,54 @@
-/*  𝕨𝕨𝕨.𝔹𝕠𝕜𝕠𝕟𝕫𝕚.𝕔𝕠𝕞  𝖞𝖉𝖊𝖓𝖌𝖆 𝕿𝖚𝖛𝖚𝖒𝖇𝖚   ★☆♨♫✈❤  
-    //  ★   =   début de l'information
-    //  ☆   =   fin de l'information
-    //  ♨   =   Code de l'information premier letre du fichier et dernier lettre du fichier suivi du numéro du commentaire.
-    //  ♫   = connexion css all suivi du nom du fichier 
-    //  ✈  = provenence du fichier total app.php racine du fichier ♨=ap002
-    //  ❥ = le fichier ne pas au même emplacement que l'appelant /!\
-    //
-    𝕨𝕨𝕨.𝔹𝕠𝕜𝕠𝕟𝕫𝕚.𝕔𝕠𝕞  𝖞𝖉𝖊𝖓𝖌𝖆 𝕿𝖚𝖛𝖚𝖒𝖇𝖚   ★☆♨♫✈❤ /*
+
+ .sec
+ {
+   display: flex ; 
+   justify-content: space-around ; 
+ 
+ }
+ .sec2
+ {
+   display: flex ; 
+   justify-content: space-around ; 
+ 
+ }
+ .formulaire_ 
+ {
+
+text-align: center; 
+width: 60%;
+margin: auto ; 
+ }
+ .formulaire_ input 
+ {
+   width: 80% ; 
+   padding: 5px; 
+   margin: 5px ; 
+   border: 1px solid rgba(0,0,0,0) ; 
+   border-bottom: 1px solid rgba(33,123,0,0.3) ; 
+ }
+.espace 
+{
+  height: 50px;
+  margin-bottom: 50px;
+  background-color: red; 
+  visibility: hidden ; 
+}
+ .formulaire_  .fa , .formulaire_  .fas
+ {
+   margin-top:40px ; 
+   font-size: 2em; 
+ }
+ .formulaire_  .fa:hover , .formulaire_  .fas:hover
+ {
+   cursor: pointer ; 
+ }
+
+ ul li 
+ {
+   
+   list-style: none ; 
+ }
+ .fa-remove 
+ {
+   color : red; 
+ }
